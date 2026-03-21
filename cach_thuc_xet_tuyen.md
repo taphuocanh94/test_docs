@@ -18,7 +18,7 @@
 
 *Ghi chú: Thí sinh đoạt giải Cuộc thi khoa học, kỹ thuật quốc tế, quốc gia phải có dự án, đề tài đạt giải phù hợp với ngành đào tạo và do Hội đồng tuyển sinh xét duyệt.*
 
-## Phương thức 2: Xét tuyển sử dụng kết quả thi tốt nghiệp trung học phổ thông 
+## 3.2. Phương thức 2: Xét tuyển sử dụng kết quả thi tốt nghiệp trung học phổ thông 
 
 **Phạm vi áp dụng:** Phương thức này áp dụng cho tất cả các ngành đào tạo của Đại học Huế.
 
