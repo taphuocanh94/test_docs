@@ -18,50 +18,68 @@
 
 *Ghi chú: Thí sinh đoạt giải Cuộc thi khoa học, kỹ thuật quốc tế, quốc gia phải có dự án, đề tài đạt giải phù hợp với ngành đào tạo và do Hội đồng tuyển sinh xét duyệt.*
 
-## 3.2. Phương thức 2: Xét tuyển sử dụng kết quả thi tốt nghiệp THPT
+## Phương thức 2: Xét tuyển sử dụng kết quả thi tốt nghiệp trung học phổ thông 
 
-– Điểm các môn trong tổ hợp môn xét tuyển được lấy từ kết quả thi tốt nghiệp THPT năm 2026.
+**Phạm vi áp dụng:** Phương thức này áp dụng cho tất cả các ngành đào tạo của Đại học Huế.
 
-- Điểm xét tuyển = (M1 × H1 + M𝟐 × H𝟐 + M𝟑 × H3) + Điểm cộng + Điểm ưu tiên
+**Nguồn điểm:** Điểm các môn trong tổ hợp môn xét tuyển được lấy từ kết quả thi tốt nghiệp THPT năm **2026**.
 
-– M1, M𝟐, M3 là điểm lần lượt các môn trong tổ hợp môn xét tuyển.
+**Công thức tính điểm xét tuyển**:
 
-– H1, H𝟐, H3 là hệ số tương ứng các môn M1, M𝟐, M3.
+$$Điểm\ xét\ tuyển = \frac{M_1 \times H_1 + M_2 \times H_2 + M_3 \times H_3}{H_1 + H_2 + H_3} \times 3 + Điểm\ cộng + Điểm\ ưu\ tiên$$
 
-– Điểm xét tuyển làm tròn đến 02 chữ số thập phân, thang điểm 30.
+**Trong đó:**
+- $M_1, M_2, M_3$ là điểm lần lượt các môn trong tổ hợp môn xét tuyển.
+- $H_1, H_2, H_3$ là hệ số tương ứng các môn $M_1, M_2, M_3$.
+- **Điểm cộng, Điểm ưu tiên:** được quy định tại mục 5.2 xem tại Website: [tuyensinh.hueuni.edu.vn](http://tuyensinh.hueuni.edu.vn).
 
-– Thí sinh sử dụng chứng chỉ ngoại ngữ (để miễn thi tốt nghiệp môn ngoại ngữ) đăng ký xét tuyển theo bảng quy đổi kết quả chứng chỉ ngoại ngữ do Đại học Huế quy định.
+**Quy định chung**:
+- **Làm tròn:** Điểm xét tuyển làm tròn đến **02 chữ số thập phân**, tính theo thang điểm **30**.
+- **Chứng chỉ ngoại ngữ:** Thí sinh sử dụng chứng chỉ ngoại ngữ (để miễn thi tốt nghiệp môn ngoại ngữ) đăng ký xét tuyển theo bảng quy đổi kết quả chứng chỉ ngoại ngữ do Đại học Huế quy định.
 
 ## 3.3. Phương thức 3: Xét tuyển sử dụng kết quả học tập cấp THPT:
 
-– Điểm các môn trong tổ hợp môn xét tuyển là điểm trung bình chung kết quả học tập cả năm các lớp 10, 11, 12 của môn học đó ở cấp THPT làm tròn đến 02 chữ số thập phân.
+**Nguồn điểm:** Điểm các môn trong tổ hợp môn xét tuyển là điểm trung bình chung kết quả học tập cả năm các lớp 10, 11, 12 của môn học đó ở cấp THPT làm tròn đến **02 chữ số thập phân**.
 
-– M1, M𝟐, M3 là điểm lần lượt các môn trong tổ hợp môn xét tuyển.
+**Công thức tính điểm xét tuyển**:
 
-– H1, H𝟐, H3 là hệ số tương ứng các môn M1, M𝟐, M3.
+$$Điểm\ xét\ tuyển = \frac{M_1 \times H_1 + M_2 \times H_2 + M_3 \times H_3}{H_1 + H_2 + H_3} \times 3 + Điểm\ cộng + Điểm\ ưu\ tiên$$
 
-– Điểm xét tuyển làm tròn đến 02 chữ số thập phân.
+**Trong đó:**
+- $M_1, M_2, M_3$ là điểm lần lượt các môn trong tổ hợp môn xét tuyển.
+- $H_1, H_2, H_3$ là hệ số tương ứng các môn $M_1, M_2, M_3$.
+
+**Quy định chung**:
+- **Làm tròn:** Điểm xét tuyển làm tròn đến **02 chữ số thập phân**, tính theo thang điểm **30**.
 
 ## 3.4. Phương thức 4: Xét tuyển kết hợp
 
 ### 3.4.1. Xét tuyển kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ ngoại ngữ
 
-– M1, M𝟐 là điểm hai môn (không phải là môn ngoại ngữ) trong tổ hợp môn xét tuyển được lấy từ kết quả thi tốt nghiệp THPT năm 2026.
+**Công thức tính điểm xét tuyển**:
 
-– M3 là điểm môn ngoại ngữ được quy đổi về thang điểm 10 theo bảng quy đổi.
+$$Điểm\ xét\ tuyển = \frac{M_1 \times H_1 + M_2 \times H_2 + M_3 \times H_3}{H_1 + H_2 + H_3} \times 3 + Điểm\ cộng + Điểm\ ưu\ tiên$$
 
-– H1, H𝟐, H3 là hệ số tương ứng các môn M1, M𝟐, M3.
+**Trong đó:**
+- $M_1, M_2$ là điểm hai môn (không phải là môn ngoại ngữ) trong tổ hợp môn xét tuyển được lấy từ kết quả thi tốt nghiệp THPT năm 2026.
+- $M_3$ là điểm môn ngoại ngữ được quy đổi về thang điểm 10 theo bảng quy đổi.
+- $H_1, H_2, H_3$ là hệ số tương ứng các môn $M_1, M_2, M_3$.
 
-– Điểm xét tuyển làm tròn đến 02 chữ số thập phân.
+**Quy định chung**: 
+- **Làm tròn:** Điểm xét tuyển làm tròn đến **02 chữ số thập phân**.
 
 ### 3.4.2. Xét tuyển kết hợp kết quả học tập cấp THPT với chứng chỉ ngoại ngữ
 
-– M1, M𝟐 là điểm hai môn (không phải là môn ngoại ngữ) trong tổ hợp môn xét tuyển được lấy từ điểm trung bình chung kết quả học tập cả năm các lớp 10, 11, 12 của môn học ở cấp THPT làm tròn đến 02 chữ số thập phân.
+**Công thức tính điểm xét tuyển**:
 
-– M3 là điểm môn ngoại ngữ được quy đổi về thang điểm 10 theo bảng quy đổi.
+$$Điểm\ xét\ tuyển = \frac{M_1 \times H_1 + M_2 \times H_2 + M_3 \times H_3}{H_1 + H_2 + H_3} \times 3 + Điểm\ cộng + Điểm\ ưu\ tiên$$
 
-– H1, H2, H3 là hệ số tương ứng các môn M1, M2, M3
+**Trong đó:**
+- $M_1, M_2$ là điểm hai môn (không phải là môn ngoại ngữ) trong tổ hợp môn xét tuyển được lấy từ điểm trung bình chung kết quả học tập cả năm các lớp 10, 11, 12 của môn học ở cấp THPT làm tròn đến 02 chữ số thập phân.
+- $M_3$ là điểm môn ngoại ngữ được quy đổi về thang điểm 10 theo bảng quy đổi.
+- $H_1, H_2, H_3$ là hệ số tương ứng các môn $M_1, M_2, M_3$.
 
-– Điểm xét tuyển làm tròn đến 02 chữ số thập phân.
+**Quy định chung**: 
+- **Làm tròn:** Điểm xét tuyển làm tròn đến **02 chữ số thập phân**.
 
-Xem chi tiết Điểm ưu tiên, điểm cộng TẠI ĐÂY
+***Lưu ý***: Các chứng chỉ ngoại ngữ được áp dụng bao gồm: IELTS, TOEFL iBT, TOEFL ITP, VSTEP, TOEIC (4 kỹ năng) từ mức điểm theo Bảng quy đổi chứng chỉ ngoại ngữ. 
