@@ -8,3 +8,5 @@ Năm 2026, Trường Đại học Nông Lâm áp dụng các phương thức xé
 – **Phương thức 3**: Xét tuyển sử dụng kết quả học tập cấp trung học phổ thông (HB)
 
 – **Phương thức 4**: Xét tuyển kết hợp (KH)
+
+***Tất cả các ngành đều áp dụng tất cả 4 phương thức tuyển sinh trên.***
