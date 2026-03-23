@@ -83,4 +83,9 @@ $$Điểm\ xét\ tuyển = \frac{M_1 \times H_1 + M_2 \times H_2 + M_3 \times H_
 **Lưu ý**: 
 - **Làm tròn:** Điểm xét tuyển làm tròn đến **02 chữ số thập phân**.
 
-***Lưu ý***: Các chứng chỉ ngoại ngữ được áp dụng bao gồm: IELTS, TOEFL iBT, TOEFL ITP, VSTEP, TOEIC (4 kỹ năng) từ mức điểm theo Bảng quy đổi chứng chỉ ngoại ngữ. 
+***Lưu ý chung***: 
+- Các chứng chỉ ngoại ngữ được áp dụng bao gồm: IELTS, TOEFL iBT, TOEFL ITP, VSTEP, TOEIC (4 kỹ năng) từ mức điểm theo Bảng quy đổi chứng chỉ ngoại ngữ. 
+- Điểm cộng (bao gồm điểm thưởng, điểm xét thưởng, điểm khuyến khích) tối đa là 3 điểm theo thang điểm 30 (tương ứng 10% của thang điểm xét tuyển) áp dụng cho các phương thức có điểm cộng: Phương thức 2: Xét tuyển sử dụng kết quả thi tốt nghiệp THPT,  Phương thức 3: Xét tuyển sử dụng kết quả học tập cấp THPT và Phương thức 4: Xét tuyển kết hợp trong đó:
+- Điểm thưởng đối với thí sinh được tuyển thẳng nhưng không dùng để xét tuyển thẳng từ 0-3;
+- Điểm xét thưởng đối với thí sinh có thành tích hoặc có năng khiếu đặc biệt từ 0 - 1,5;
+- Điểm khuyến khích đối với thí sinh có chứng chỉ ngoại ngữ hoặc có chứng chỉ quốc tế (nếu có) từ 0 - 1,5. Chứng chỉ ngoại ngữ chỉ được dùng cho quy đổi điểm môn ngoại ngữ trong tổ hợp xét tuyển hoặc sử dụng cho điểm khuyến khích.
