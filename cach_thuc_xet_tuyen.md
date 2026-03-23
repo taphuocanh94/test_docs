@@ -52,6 +52,9 @@ $$Điểm\ xét\ tuyển = \frac{M_1 \times H_1 + M_2 \times H_2 + M_3 \times H_
 **Quy định chung**:
 - **Làm tròn:** Điểm xét tuyển làm tròn đến **02 chữ số thập phân**, tính theo thang điểm **30**.
 
+**Lưu ý**:
+- **Ngưỡng đầu vào**: Thí sinh phải có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT (kỳ thi trung học nghề đối với đối tượng trung học nghề) các năm theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt tối thiểu 15.00 điểm theo thang điểm 30, áp dụng đối với thí sinh thi tốt nghiệp từ năm 2026.
+
 ## 3.4. Phương thức 4: Xét tuyển kết hợp
 
 ### 3.4.1. Xét tuyển kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ ngoại ngữ
