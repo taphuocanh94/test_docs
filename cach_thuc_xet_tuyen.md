@@ -33,7 +33,7 @@ $$Điểm\ xét\ tuyển = \frac{M_1 \times H_1 + M_2 \times H_2 + M_3 \times H_
 - $H_1, H_2, H_3$ là hệ số tương ứng các môn $M_1, M_2, M_3$.
 - **Điểm cộng, Điểm ưu tiên:** được quy định tại mục 5.2 xem tại Website: [tuyensinh.hueuni.edu.vn](http://tuyensinh.hueuni.edu.vn).
 
-**Quy định chung**:
+**Lưu ý**:
 - **Làm tròn:** Điểm xét tuyển làm tròn đến **02 chữ số thập phân**, tính theo thang điểm **30**.
 - **Chứng chỉ ngoại ngữ:** Thí sinh sử dụng chứng chỉ ngoại ngữ (để miễn thi tốt nghiệp môn ngoại ngữ) đăng ký xét tuyển theo bảng quy đổi kết quả chứng chỉ ngoại ngữ do Đại học Huế quy định.
 
@@ -49,11 +49,9 @@ $$Điểm\ xét\ tuyển = \frac{M_1 \times H_1 + M_2 \times H_2 + M_3 \times H_
 - $M_1, M_2, M_3$ là điểm lần lượt các môn trong tổ hợp môn xét tuyển.
 - $H_1, H_2, H_3$ là hệ số tương ứng các môn $M_1, M_2, M_3$.
 
-**Quy định chung**:
-- **Làm tròn:** Điểm xét tuyển làm tròn đến **02 chữ số thập phân**, tính theo thang điểm **30**.
-
 **Lưu ý**:
-- **Ngưỡng đầu vào**: Thí sinh phải có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT (kỳ thi trung học nghề đối với đối tượng trung học nghề) các năm theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt tối thiểu 15.00 điểm theo thang điểm 30, áp dụng đối với thí sinh thi tốt nghiệp từ năm 2026.
+- **Làm tròn:** Điểm xét tuyển làm tròn đến **02 chữ số thập phân**, tính theo thang điểm **30**.
+- **Ngưỡng đầu vào**: Thí sinh phải có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT (kỳ thi trung học nghề đối với đối tượng trung học nghề) các năm theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt tối thiểu 15.00 điểm theo thang điểm 30.
 
 ## 3.4. Phương thức 4: Xét tuyển kết hợp
 
@@ -68,7 +66,7 @@ $$Điểm\ xét\ tuyển = \frac{M_1 \times H_1 + M_2 \times H_2 + M_3 \times H_
 - $M_3$ là điểm môn ngoại ngữ được quy đổi về thang điểm 10 theo bảng quy đổi.
 - $H_1, H_2, H_3$ là hệ số tương ứng các môn $M_1, M_2, M_3$.
 
-**Quy định chung**: 
+**Lưu ý**: 
 - **Làm tròn:** Điểm xét tuyển làm tròn đến **02 chữ số thập phân**.
 
 ### 3.4.2. Xét tuyển kết hợp kết quả học tập cấp THPT với chứng chỉ ngoại ngữ
@@ -82,7 +80,7 @@ $$Điểm\ xét\ tuyển = \frac{M_1 \times H_1 + M_2 \times H_2 + M_3 \times H_
 - $M_3$ là điểm môn ngoại ngữ được quy đổi về thang điểm 10 theo bảng quy đổi.
 - $H_1, H_2, H_3$ là hệ số tương ứng các môn $M_1, M_2, M_3$.
 
-**Quy định chung**: 
+**Lưu ý**: 
 - **Làm tròn:** Điểm xét tuyển làm tròn đến **02 chữ số thập phân**.
 
 ***Lưu ý***: Các chứng chỉ ngoại ngữ được áp dụng bao gồm: IELTS, TOEFL iBT, TOEFL ITP, VSTEP, TOEIC (4 kỹ năng) từ mức điểm theo Bảng quy đổi chứng chỉ ngoại ngữ. 
