@@ -60,6 +60,25 @@
 | 17 | Thú y | 7640101 | 1. Toán, Lý, Hóa; 2. Toán, Hóa, Sinh; 3. Toán, Văn, Địa; 4. Toán, Văn, Anh; 5. Toán, Văn, CNNN; 6. Toán, Hóa, CNNN; 7. Toán, Hóa, Anh; 8. Toán, Sinh, Anh | A00, B00, C04, D01, X04, X12, D07, B08 | 250 |
 | 18 | Quản lý đất đai | 7850103 | 1. Toán, Vật lí, Anh; 2. Văn, Sử, Địa; 3. Toán, Văn, Lý; 4. Toán, Văn, Sử; 5. Toán, Văn, Địa; 6. Toán, Văn, GDCD; 7. Toán, Văn, Kinh tế PL; 8. Toán, Văn, Anh | A01, C00, C01, C03, C04, C14, X01, D01 | 150 |
 
+
+1. Ngành **Bất động sản** (Mã ngành: 7340116) xét tuyển **80 chỉ tiêu** với các tổ hợp môn: A01, C00, C01, C03, C04, C14, X01, D01.
+2. Ngành **Công nghệ kỹ thuật cơ khí** (Mã ngành: 7510201) xét tuyển **150 chỉ tiêu** với các tổ hợp môn: A00, A01, X04, X01, C04, C01, D01, C02.
+3. Ngành **Kỹ thuật cơ – điện tử** (Mã ngành: 7520114) xét tuyển **100 chỉ tiêu** với các tổ hợp môn: A00, A01, X04, X01, C04, C01, D01, C02.
+4. Ngành **Công nghệ thực phẩm** (Mã ngành: 7540101) xét tuyển **200 chỉ tiêu** với các tổ hợp môn: A00, A01, X04, X01, C04, C01, D01, C02.
+5. Ngành **Đảm bảo chất lượng an toàn thực phẩm** (Mã ngành: 7540106) xét tuyển **50 chỉ tiêu** với các tổ hợp môn: A00, A01, X04, X01, C04, C01, D01, C02.
+6. Ngành **Khuyến nông** (Mã ngành: 7620102) xét tuyển **50 chỉ tiêu** với các tổ hợp môn: A07, C00, C03, C04, X04, Y09, C12, D01.
+7. Ngành **Chăn nuôi** (Mã ngành: 7620105) xét tuyển **150 chỉ tiêu** với các tổ hợp môn: A00, B00, C04, D01, X04, X12, D07, B08.
+8. Ngành **Khoa học cây trồng** (Mã ngành: 7620110) xét tuyển **80 chỉ tiêu** với các tổ hợp môn: A08, X17, B00, B03, C03, C04, D01, X04.
+9. Ngành **Bảo vệ thực vật** (Mã ngành: 7620112) xét tuyển **80 chỉ tiêu** với các tổ hợp môn: A08, X17, B00, B03, C03, C04, D01, X04.
+10. Ngành **Nông nghiệp công nghệ cao** (Mã ngành: 7620118) xét tuyển **80 chỉ tiêu** với các tổ hợp môn: A08, X17, B00, B03, C03, C04, D01, X04.
+11. Ngành **Phát triển nông thôn** (Mã ngành: 7620116) xét tuyển **100 chỉ tiêu** với các tổ hợp môn: A07, C00, C03, C04, X04, Y09, C12, D01.
+12. Ngành **Lâm nghiệp** (Mã ngành: 7620210) xét tuyển **50 chỉ tiêu** với các tổ hợp môn: A00, B00, C03, C04, C14, X01, X04, X12.
+13. Ngành **Quản lý tài nguyên rừng** (Mã ngành: 7620211) xét tuyển **50 chỉ tiêu** với các tổ hợp môn: A00, B00, C03, C04, C14, X01, X04, X12.
+14. Ngành **Nuôi trồng thủy sản** (Mã ngành: 7620301) xét tuyển **200 chỉ tiêu** với các tổ hợp môn: A00, B00, B03, D01, X04, X12, X55, X21.
+15. Ngành **Bệnh học thủy sản** (Mã ngành: 7620302) xét tuyển **80 chỉ tiêu** với các tổ hợp môn: A00, B00, B03, D01, X04, X12, X55, X21.
+16. Ngành **Quản lý thủy sản** (Mã ngành: 7620305) xét tuyển **80 chỉ tiêu** với các tổ hợp môn: A00, B00, B03, D01, X04, X12, X55, X21.
+17. Ngành **Thú y** (Mã ngành: 7640101) xét tuyển **250 chỉ tiêu** với các tổ hợp môn: A00, B00, C04, D01, X04, X12, D07, B08.
+18. Ngành **Quản lý đất đai** (Mã ngành: 7850103) xét tuyển **150 chỉ tiêu** với các tổ hợp môn: A01, C00, C01, C03, C04, C14, X01, D01.
 ---
 
 ## IV. THÔNG TIN HỌC BỔNG VÀ LIÊN HỆ
