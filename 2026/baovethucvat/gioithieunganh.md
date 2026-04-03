@@ -187,4 +187,7 @@ Website:
 - [nh.huaf.edu.vn](https://nh.huaf.edu.vn)  
 - [huaf.edu.vn](https://huaf.edu.vn)  
 
+Fanpage:
+- [Trường Đại Học Nông Lâm, Đại học Huế](https://www.facebook.com/truongdaihocnonglamhue)
+  
 Zalo: Trường Đại học Nông Lâm, Đại học Huế
